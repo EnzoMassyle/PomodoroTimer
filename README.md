@@ -1,36 +1,36 @@
 <h1>Pomodoro Timer</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+## Description
+Application is meant to help users perform focused work using the [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique).
 
-<h2>Description</h2>
-Application is meant to help users perform focused work using the [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique)
-<br />
+## Languages and Utilities Used
 
+- <b>Python (Backend Functionality)</b> 
+- <b>tkinter (Frontend GUI)</b> 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>C++</b> 
-- <b>Fast Light Took Kit (FLTK)</b> 
-
-<h2>Program walk-through:</h2>
-
+## Program walk-through:
 <p align="center">
 Launch the application: <br/>
-<img src="https://i.imgur.com/dqSBbdA.png" height="80%" width="80%" alt="Home screen"/>
+<img src="https://i.imgur.com/pyJ5gEw.png" height="50%" width="50%" alt="Home screen"/>
 <br />
 <br />
-Process text file(s):  <br/>
-<img src="https://i.imgur.com/9gz58tL.png" height="80%" width="80%" alt="Processing The text from the Lord of the Rings"/>
+Select Desired Settings:  <br/>
+<img src="https://i.imgur.com/T5ZwXAJ.png" height="50%" width="50%" alt="Processing The text from the Lord of the Rings"/>
 <br />
 <br />
-Write Semantic Dictionary to text file: <br/>
-<img src="https://i.imgur.com/dVJVZxP.png" height="80%" width="80%" alt="Creating Semantic Dictionary"/>
+Be focused during work time (red background): <br/>
+<img src="https://i.imgur.com/LHWexWR.png" height="50%" width="50%" alt="Creating Semantic Dictionary"/>
 <br />
 <br />
-Ask program to identify the most similar word out of words given:  <br/>
-<img src="https://i.imgur.com/C8OxcOi.png" height="80%" width="80%" alt="Program prediction most semantic similar word"/>
+Rest during break time (blue background):  <br/>
+<img src="https://i.imgur.com/YUQ1lSh.png" height="50%" width="50%" alt="Program prediction most semantic similar word"/>
 <br />
 <br />
+ </p>
+ 
+ <p align="center"> 
+ And Repeat!
+
 
 <!--
  ```diff
