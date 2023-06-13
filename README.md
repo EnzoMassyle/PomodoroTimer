@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project is an application whos purpose is to be able to identify the semantic similarity between words. Application is able to be efficiently trained on large text files (Full novels) to make accurate predictions on words that are semantically similar.
+Application is meant to help users perform focused work using the [Pomodoro Technique](https://todoist.com/productivity-methods/pomodoro-technique)
 <br />
 
 
